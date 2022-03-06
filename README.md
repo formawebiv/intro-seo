@@ -31,7 +31,7 @@ Contidos:
 Estrurtura do site
 
 ```
-seo-slides/
+intro-seo/
 ├── index.html
 ├── *.html
 ├── static/

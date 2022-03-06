@@ -257,10 +257,10 @@ hr {
 
 h2 + hr,
 h3 + hr {
-  margin-bottom: 4.8rem; }
+  margin-bottom: 1.8rem; } /* 4,8 */
 
 p + hr {
-  margin-bottom: 4rem; }
+  margin-bottom: 1rem; } /* 4 */
 
 dfn,
 cite,
@@ -713,7 +713,7 @@ https://github.com/daneden/animate.css */
   h1 + .browser,
   h2 + .browser,
   p + .browser {
-    margin-top: 4.8rem; }
+    margin-top: 3.8rem; } /* 4,8 */
   .browser figcaption {
     padding: 2.4rem; }
   .browser:before {
@@ -875,7 +875,7 @@ h2 {
   @media (min-width: 768px) {
     h2 {
       font-size: 4.8rem;
-      line-height: 6.4rem; } }
+      line-height: 5rem; } /* 6,4*/ }
 
 h3 {
   font-size: 2.4rem;
